@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaujQD
 - 👀 I’m interested in machine-learning, medicine and healthcare related topics.
-- 🌱 I’m currently learning pythin and ML
+- 🌱 I’m currently learning AI applications in Healthcare.
 - 💞️ I’m looking to collaborate on researches
 - 📫 How to reach me juancudde@gmail.com
 
